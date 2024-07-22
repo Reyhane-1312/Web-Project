@@ -1,0 +1,22 @@
+h1{
+    font-size: 28px;
+    text-transform: uppercase;
+}
+#job{
+    font-size: 18px;
+    font-weight: 500;
+}
+.summary{
+    font-size: 16px;
+    line-height: 20px;
+}
+h3{
+    color: #6b705c;
+    font-size: 20px;
+}
+body{
+    font-family: serif,Arial, Helvetica, sans-serif;
+}
+header,footer{
+    align-items: center;
+}
