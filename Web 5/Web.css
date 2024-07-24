@@ -1,0 +1,49 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: serif,Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 28px;
+    text-transform: uppercase;
+}
+
+#job{
+    font-size: 18px;
+    font-weight: bold;
+    color: #b7b7a4;
+}
+
+.summary{
+    font-size: 16px;
+    line-height: 20px;
+}
+
+h3{
+    color: #6b705c;
+    font-size: 20px;
+    border-bottom: 1px solid #6b705c;
+    padding-bottom: 2px;
+}
+
+header,footer{
+    text-align: center;
+    background-color: #b5b5a9;
+}
+
+footer{
+    padding: 2px 10px 2px 10px;
+}
+
+ul{
+    margin: 0px;
+    border-bottom: 5px;
+}
+
+header{
+    padding: 2px 0px;
+}
